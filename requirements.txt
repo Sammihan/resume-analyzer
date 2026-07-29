@@ -1,0 +1,16 @@
+streamlit
+pdfplumber
+pdf2image
+easyocr
+numpy
+Pillow
+sentence-transformers
+torch
+transformers
+scikit-learn
+groq
+python-dotenv
+reportlab
+pandas
+python-docx
+platform
